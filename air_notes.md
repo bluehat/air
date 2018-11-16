@@ -32,3 +32,7 @@ Adapter found this [credible and easy DIY option.](https://www.king5.com/article
   * This one is P, the heavier and harder to breathe through one).
   * That might be unneeded.
 * [Room filter](https://www.amazon.com/gp/product/B004VGIGVY?tag=electronicfro-20)
+
+## Way Too Serious
+Shelter in place: [instructions](https://www.ready.gov/shelter)
+ * Basically, how to seal up a room.
