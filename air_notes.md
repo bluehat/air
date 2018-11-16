@@ -13,7 +13,7 @@ Referral links benefit the [EFF](https://www.eff.org/).
 * What do these numbers mean?
   * This is the American Lung Organization's chart https://www.lung.org/our-initiatives/healthy-air/outdoor/air-pollution/air-quality-index.html
 * When will this stop?
-  * We are hoping for rain on Wednesday to help with the air quality.
+  * We are hoping for rain on Wednesday to help with the air quality and possibly reduce sources of air polution.
   
 ## Credible Easy DIY Option
 Adapter found [credible and easy DIY option.](https://www.king5.com/article/news/local/this-diy-air-filter-for-wildfire-smoke-is-less-than-20/281-584346009)
