@@ -9,11 +9,11 @@ Referral links benefit the [EFF](https://www.eff.org/).
   * You can see maps of the air
     * Here is the [one that loads](http://aqicn.org/here/)
     * Here is the [much cooler one that doesn't really load right](https://www.purpleair.com/gmap?&zoom=3&lat=39.51596757727815&lng=-99.35539180755615&clustersize=45&orderby=L&latr=134.76294482934054&lngr=-106.875) 
-  * Some areas of California have been labeled as "Hazardous" 
+  * Some areas of California have been labeled as "Hazardous (Maroon)"
 * What do these numbers mean?
   * This is the American Lung Organization's chart https://www.lung.org/our-initiatives/healthy-air/outdoor/air-pollution/air-quality-index.html
 * When will this stop?
-  * We are hoping for rain on Wednesday to help with the air quality and possibly reduce sources of air polution.
+  * We are hoping for rain on Wednesday. Rain would help improve the air quality and possibly also reduce sources of air polution.
   
 ## Credible Easy DIY Option
 Adapter found [credible and easy DIY option.](https://www.king5.com/article/news/local/this-diy-air-filter-for-wildfire-smoke-is-less-than-20/281-584346009)
