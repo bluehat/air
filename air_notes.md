@@ -23,8 +23,10 @@ Referral links benefit the [EFF](https://www.eff.org/).
   * 300 is Hazardous (Maroon) and means when "Health warnings of emergency conditions. The entire population is more likely to be affected."
 * When will this stop?
   * We are hoping for rain on Wednesday. Rain would help improve the air quality and possibly also reduce sources of air. polution.
+
+## [What am I supposed to be doing in general?](https://www3.epa.gov/airnow/smoke_fires/reduce-your-smoke-exposure.pdf)
   
-## Credible Easy DIY Option
+## Credible Easy DIY Room Air Filter Option
 Adapter found this [credible and easy DIY option.](https://www.king5.com/article/news/local/this-diy-air-filter-for-wildfire-smoke-is-less-than-20/281-584346009)
 * You Need
   * A box fan
