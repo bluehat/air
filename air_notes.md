@@ -19,7 +19,7 @@ Referral links benefit the [EFF](https://www.eff.org/).
 Adapter found this [credible and easy DIY option.](https://www.king5.com/article/news/local/this-diy-air-filter-for-wildfire-smoke-is-less-than-20/281-584346009)
 * You Need
   * A box fan
-  * A MERV 13 or FPR 10 filter.
+  * A MERV 13 or FPR 10 filter for a forced air system.
  
 ## More Serious
 * On face things: The typical safety standards for wildfire is n95- n100 or P95-p100. The difference between P and N is that P is also oil resistant. Notice this only filters out particles and not gasses like CO, or CO2.The problem with the cheaper masks is you need good face contact. P95 masks are strictly better than N95 masks except harder to breathe in casually.
