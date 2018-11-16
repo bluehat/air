@@ -5,15 +5,21 @@ Doug took notes and made a list. I asked for a copy because I think he would tak
 Referral links benefit the [EFF](https://www.eff.org/).
 
 ## Should I care?
-* There are places where people do care
-  * You can see maps of the air
+* There are places where people do care.
+  * Some areas of California have been labeled as "Hazardous (Maroon).
+* You should probably check if you live in one of those places,
+  * Especially if
+    * You live anywhere that pretends to be or attempts to claim credit for Silicon Valley
+      * This includes Oakland, Berkley, and San Jose.
+    * The Sacramento area
+    * (Possibly) Santa Cruz or along the 1 south of San Jose.
+  * You can see maps of the air.
     * Here is the [one that loads](http://aqicn.org/here/) It tends to give very optimistic numbers.
     * Here is the [much cooler one that doesn't really load right](https://www.purpleair.com/gmap?&zoom=3&lat=39.51596757727815&lng=-99.35539180755615&clustersize=45&orderby=L&latr=134.76294482934054&lngr=-106.875) It gives far higher readings. There have been historical instances where these home weather stations were more trustworthy then larger sources.
-  * Some areas of California have been labeled as "Hazardous (Maroon)"
 * What do these numbers mean?
   * This is the [American Lung Organization's chart](https://www.lung.org/our-initiatives/healthy-air/outdoor/air-pollution/air-quality-index.html)
 * When will this stop?
-  * We are hoping for rain on Wednesday. Rain would help improve the air quality and possibly also reduce sources of air polution.
+  * We are hoping for rain on Wednesday. Rain would help improve the air quality and possibly also reduce sources of air. polution.
   
 ## Credible Easy DIY Option
 Adapter found this [credible and easy DIY option.](https://www.king5.com/article/news/local/this-diy-air-filter-for-wildfire-smoke-is-less-than-20/281-584346009)
