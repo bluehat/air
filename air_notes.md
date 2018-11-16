@@ -23,3 +23,4 @@ You Need
   * A box fan
   * A MERV 13 or FPR 10 filter.
 * You can see maps of the air at http://aqicn.org/here/
+  * This explains the colors on the maps https://www.lung.org/our-initiatives/healthy-air/outdoor/air-pollution/air-quality-index.html
