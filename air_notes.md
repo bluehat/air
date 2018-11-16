@@ -42,7 +42,7 @@ Adapter found this [credible and easy DIY option.](https://www.king5.com/article
   * Also excellent for obnoxious Bane impressions
 * [Replacement Pieces](https://www.amazon.com/3M-5P71PB1-6-Particulate-Filters-Pack/dp/B00NTP9MDO?tag=electronicfro-20)
   * This one is P, the heavier and harder to breathe through one).
-  * That might be unneeded.
+  * Now that we have researched it more, the N is likely the wiser choice.
 * [Room filter](https://www.amazon.com/gp/product/B004VGIGVY?tag=electronicfro-20)
 
 ## Way Too Serious
