@@ -21,7 +21,7 @@ You Need
  
 ## More Serious
 * On face things: The typical safety standards for wildfire is n95- n100 or P95-p100. The difference between P and N is that P is also oil resistant. Notice this only filters out particles and not gasses like CO, or CO2.The problem with the cheaper masks is you need good face contact. P95 masks are strictly better than N95 masks except harder to breathe in casually.
-* On room things: HEPA approved and make sure to check  if it filters out .3 micron particles. You need to allow the same air to circulate through the purifier more than once preferably in a closed room. Each pass removes 95% of the particles. jsdf 
+* On room things: Find something HEPA approved and make sure to check if it filters out .3 micron particles. You need to allow the same air to circulate through the purifier more than once preferably in a closed room. Each pass removes 95% of the particles.
 ### Current guess at Amazon with Saturday delivery:
 * [Air Mask](https://www.amazon.com/gp/product/B00079FOK0?tag=electronicfro-20)
   * Not sure this is amazing, it was just around
