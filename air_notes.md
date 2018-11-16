@@ -19,14 +19,15 @@ Referral links benefit the [EFF](https://www.eff.org/).
 Adapter found this [credible and easy DIY option.](https://www.king5.com/article/news/local/this-diy-air-filter-for-wildfire-smoke-is-less-than-20/281-584346009)
 * You Need
   * A box fan
-  * A MERV 13 or FPR 10 filter for a forced air system.
+  * A MERV 13 or FPR 10 filter for a forced air system, such as a heating system.
+* Basically by taping the air filter to the box fan and running it in a smaller room, ideally with few windows, you are causing a lot of bad things from the air to get stuck in the filter.
  
 ## More Serious
-* On face things: The typical safety standards for wildfire is n95- n100 or P95-p100. The difference between P and N is that P is also oil resistant. Notice this only filters out particles and not gasses like CO, or CO2.The problem with the cheaper masks is you need good face contact. P95 masks are strictly better than N95 masks except harder to breathe in casually.
+* On face things: The typical safety standards for wildfire is n95- n100 or P95-p100. The difference between P and N is that P is also oil resistant. Notice this only filters out particles and not gasses like CO, or CO2. The problem with the cheaper masks is you need good face contact. P95 masks are strictly better than N95 masks except harder to breathe in casually. Facial hair will hurt the fit of your mask, so if that matters, shave.
 * On room things: Find something HEPA approved and make sure to check if it filters out .3 micron particles. You need to allow the same air to circulate through the purifier more than once preferably in a closed room. Each pass through hthe suggested level of filtering removes 95% of the particles.
 ### Current guess at Amazon with Saturday delivery:
 * [Air Mask](https://www.amazon.com/gp/product/B00079FOK0?tag=electronicfro-20)
-  * Not sure this is amazing, it was just around
+  * Not sure this is amazing, it was just around.
   * Also excellent for obnoxious Bane impressions
 * [Replacement Pieces](https://www.amazon.com/3M-5P71PB1-6-Particulate-Filters-Pack/dp/B00NTP9MDO?tag=electronicfro-20)
   * This one is P, the heavier and harder to breathe through one).
