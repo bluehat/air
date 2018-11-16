@@ -1,23 +1,26 @@
 # Air Notes
 
-Doug took notes and made a list. I asked for a copy because I think he would take good notes and write good lists. 
+Doug took notes and made a list. I asked for a copy because I think he would take good notes and write good lists. Then people started contributing. Please send pull requests to add information with cited sources.
 
 Referral links benefit the [EFF](https://www.eff.org/).
 
 ## Should I care?
 * There are places where people do care.
-  * Some areas of California have been labeled as "Hazardous (Maroon).
+  * Some areas of California have been labeled as "Hazardous" (Maroon).
 * You should probably check if you live in one of those places,
   * Especially if
     * You live anywhere that pretends to be or attempts to claim credit for Silicon Valley
       * This includes Oakland, Berkley, and San Jose.
     * The Sacramento area
-    * (Possibly) Santa Cruz or along the 1 south of San Jose.
+    * (Less urgently) Santa Cruz or along the 101 south of San Jose.
   * You can see maps of the air.
     * Here is the [one that loads](http://aqicn.org/here/) It tends to give very optimistic numbers.
     * Here is the [much cooler one that doesn't really load right](https://www.purpleair.com/gmap?&zoom=3&lat=39.51596757727815&lng=-99.35539180755615&clustersize=45&orderby=L&latr=134.76294482934054&lngr=-106.875) It gives far higher readings. There have been historical instances where these home weather stations were more trustworthy then larger sources.
 * What do these numbers mean?
-  * This is the [American Lung Organization's chart](https://www.lung.org/our-initiatives/healthy-air/outdoor/air-pollution/air-quality-index.html)
+  * This is the [way it works](https://airnow.gov/index.cfm?action=aqibasics.aqi)
+  * 150 is Unhealthy (Red) and means "Everyone may begin to experience health effects; members of sensitive groups may experience more serious health effects."
+  * 200 is Very Unealthy (Purple) and means "Health alert: everyone may experience more serious health effects."
+  * 300 is Hazardous (Maroon) and means when "Health warnings of emergency conditions. The entire population is more likely to be affected."
 * When will this stop?
   * We are hoping for rain on Wednesday. Rain would help improve the air quality and possibly also reduce sources of air. polution.
   
