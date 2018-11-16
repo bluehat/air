@@ -1,6 +1,6 @@
 # Air Notes
 
-Doug took notes and made a list. I asked for a copy because I think he would take good notes and write good lists. You may not need them now, but most don't arrive immediately. 
+Doug took notes and made a list. I asked for a copy because I think he would take good notes and write good lists. You may not need these supplies now. However, they also don't arrive immediately when you do need them. 
 
 Referral links benefit the [EFF](https://www.eff.org/).
 
