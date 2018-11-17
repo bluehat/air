@@ -45,7 +45,10 @@ Adapter found this [credible and easy DIY option.](https://www.king5.com/article
 ## Way Too Serious
 Shelter in place: [instructions](https://www.ready.gov/shelter)
  * Basically, how to seal up a room.
- 
+
+## What About Avoiding Actual Fire?
+You can see which wildfires are burning and which have been contained at http://www.fire.ca.gov/general/firemaps
+
 ## Credits
-Doug did most of the More Serious portion
+Doug did most of the More Serious portion.
 
