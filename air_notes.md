@@ -1,26 +1,23 @@
 # Air Notes
 
-Doug took notes and made a list. I asked for a copy because I think he would take good notes and write good lists. Then people started contributing. Please send pull requests to add information with cited sources.
-
 Referral links benefit the [EFF](https://www.eff.org/).
 
 ## Should I care?
 * There are places where people do care.
   * Some areas of California have been labeled as "Hazardous" (Maroon).
 * You should probably check if you live in one of those places,
-  * Especially if
-    * You live anywhere that pretends to be or attempts to claim credit for Silicon Valley
-      * This includes Oakland, Berkley, and San Jose.
-    * The Sacramento area
-    * (Less urgently) Santa Cruz or along the 101 south of San Jose.
   * You can see maps of the air.
     * Here is the [one that loads](http://aqicn.org/here/) It tends to give very optimistic numbers.
     * Here is the [much cooler one that doesn't really load right](https://www.purpleair.com/gmap?&zoom=3&lat=39.51596757727815&lng=-99.35539180755615&clustersize=45&orderby=L&latr=134.76294482934054&lngr=-106.875) It gives far higher readings. There have been historical instances where these home weather stations were more trustworthy then larger sources.
 * What do these numbers mean?
-  * This is the [way it works](https://airnow.gov/index.cfm?action=aqibasics.aqi)
-  * 150 is Unhealthy (Red) and means "Everyone may begin to experience health effects; members of sensitive groups may experience more serious health effects."
-  * 200 is Very Unealthy (Purple) and means "Health alert: everyone may experience more serious health effects."
-  * 300 is Hazardous (Maroon) and means when "Health warnings of emergency conditions. The entire population is more likely to be affected."
+
+| Rating | Name (Color Code) | [Health Implications](https://airnow.gov/index.cfm?action=aqibasics.aqi) | Cautionary Statement for [PM2.5](https://aqicn.org/faq/2015-03-15/air-quality-nowcast-a-beginners-guide/) |
+|---|---|---|---|
+| 100+ | Unhealthy for Sensitive Groups (Orange) | "Members of sensitive groups may experience health effects. The general public is not likely to be affected." | "Active children and adults, and people with respiratory disease, such as asthma, should limit prolonged outdoor exertion."
+| 150+ | Unhealthy (Red) | "Everyone may begin to experience health effects; members of sensitive groups may experience more serious health effects." | "Active children and adults, and people with respiratory disease, such as asthma, should avoid prolonged outdoor exertion; everyone else, especially children, should limit prolonged outdoor exertion." |
+| 200+ | Very Unhealthy (Purple) | "Health alert: everyone may experience more serious health effects." | "Active children and adults, and people with respiratory disease, such as asthma, should avoid all outdoor exertion; everyone else, especially children, should limit outdoor exertion." |
+| 300+ | Hazardous (Maroon) | "Health warnings of emergency conditions. The entire population is more likely to be affected." | "Everyone should avoid all outdoor exertion." |
+
 * When will this stop?
   * We are hoping for rain on Wednesday. Rain would help improve the air quality and possibly also reduce sources of air. polution.
 
@@ -48,3 +45,7 @@ Adapter found this [credible and easy DIY option.](https://www.king5.com/article
 ## Way Too Serious
 Shelter in place: [instructions](https://www.ready.gov/shelter)
  * Basically, how to seal up a room.
+ 
+## Credits
+Doug did most of the More Serious portion
+
