@@ -10,8 +10,8 @@ There are two common ways to measure air quality. One is the various levels of i
 The most exact way to check your AQI is to buy a kit which measures it.
 
 You can check the AQI for your local area online.
-    * Here is the [one that loads](http://aqicn.org/here/) It tends to give very optimistic numbers.
-    * Here is the [much cooler one that doesn't really load right](https://www.purpleair.com/gmap?&zoom=3&lat=39.51596757727815&lng=-99.35539180755615&clustersize=45&orderby=L&latr=134.76294482934054&lngr=-106.875) It gives far higher readings. There have been historical instances where these home weather stations were more trustworthy then larger sources.
+* Here is the [one that loads](http://aqicn.org/here/) It tends to give very optimistic numbers.
+* Here is the [much cooler one that doesn't really load right](https://www.purpleair.com/gmap?&zoom=3&lat=39.51596757727815&lng=-99.35539180755615&clustersize=45&orderby=L&latr=134.76294482934054&lngr=-106.875) It gives far higher readings. There have been historical instances where these home weather stations were more trustworthy then larger sources.
     
 ### What do these numbers mean?
 
