@@ -26,18 +26,20 @@ You can check the AQI for your local area online.
 That isn't an easy thing to know, but as a general rule, hope for rain.
 
 ## What am I supposed to be doing in general?
-The following is summarized from the [EPA's fact sheet](https://www3.epa.gov/airnow/smoke_fires/reduce-your-smoke-exposure.pdf): 
+The following is summarized from the [EPA's fact sheet](https://www3.epa.gov/airnow/smoke_fires/reduce-your-smoke-exposure.pdf)
+
+The short version is: be in the best quality air you can manage. That generally means, be inside.
+
 ### Inside
-* Be in the best quality air you can manage:
-  * Stay inside a building with the windows and doors shut
-    * Don't do things that make indoor air quality bad like burning candles, and minimize things like cooking.
-    * If it is too hot to keep the windows closed, seek shelter elsewhere
-  * Improve the quality of the air you breathe
-    * Purify the air in your home.
-      * Do not use a machine which makes ozone. Ozone is very bad for you.
-    * If your machine can't cover the whole space, go into a smaller space (with no fireplace and ideally few windows) so that your air cleaner doesn't have to keep as much space clean.
-  * Watch for brief periods of improvement in air quality and, should the quality of the outside air become better than the quality of the inside air, use the opportunity to air out your house.
-  * Have respirators.
+* Stay inside a building with the windows and doors shut
+  * Don't do things that make indoor air quality bad like burning candles, and minimize things like cooking.
+  * If it is too hot to keep the windows closed, seek shelter elsewhere
+* Improve the quality of the air you breathe
+  * Purify the air in your home.
+    * Do not use a machine which makes ozone. Ozone is very bad for you.
+  * If your machine can't cover the whole space, go into a smaller space (with no fireplace and ideally few windows) so that your air cleaner doesn't have to keep as much space clean.
+* Watch for brief periods of improvement in air quality and, should the quality of the outside air become better than the quality of the inside air, use the opportunity to air out your house.
+* Have respirators.
 ### Outside 
  * Don't exert yourself or otherwise cause yourself to breath hard in bad air.
  * In your car, try to recirculate air rather than bringing new air in.
@@ -51,10 +53,23 @@ The following is summarized from the [EPA's fact sheet](https://www3.epa.gov/air
 ## Improving Indoor Air Quality
 Find something HEPA approved and make sure to check if it filters out .3 micron particles. You need to allow the same air to circulate through the purifier more than once preferably in a closed room. Each pass through hthe suggested level of filtering removes 95% of the particles.
 
+### Air circulation
+How much a filter draws out each cycle is only half of the issue because if it only filters a small amount of air at a time it can wind up helping less than a less efficient filter which circulates far more air.
+
 ### What am I trying to filter for?
 You are attempting to remove smoke particles, which can be a small as 0.3 microns. 
 
+### HEPA
+HEPA is a standard maintained by the United States Department of Energy (though it was at one point trademarked and then genericised). It requires that you remove 99.97% of all particles 0.3 microns or larger each time air passes through it.
+
+This means it is a very good filter. The problem is that it might take a long time to get all of the air in your house through an appliance which barely creates a breeze and which is also small enough to sit on your coffee table.
+
+#### Current guess at Amazon:
+* [Room filter](https://www.amazon.com/gp/product/B004VGIGVY?tag=electronicfro-20)
+
 ### Furnace System Filters
+As a rule, furnace systems do not have HEPA ratings because they have to circulate a lot of air and it is pretty hard to remove so many particles in a single pass. At the same time, most systems that use them will circulate all of the air in your house repeatedly in a relatively short timespan.
+
 #### What Do All of These Ratings Mean?
 * MERV (Minimum Efficiency Reporting Value) is the primary rating system used in the industry, both domestically and internationally. Established by ASHRAE (American Society of Heating, Refrigerating, and Air Conditioning Engineers), MERV rates a filter’s ability to capture and hold particles and pollutants.
 * MRV (Micro-Particle Performance Rating) is a rating system designed by 3M for its products. It rates the manufacturer’s filters and their ability to capture airborne particles smaller than 1 micron. It claims that its standards correspond to or improve upon MERV standards, but there is no available evidence to support this.
@@ -76,8 +91,10 @@ Adapter found this [credible and easy DIY option.](https://www.king5.com/article
   * A MERV 13 or FPR 10 filter
 * Basically by taping the air filter to the box fan and running it in a smaller room, ideally with few windows, you are causing a lot of bad things from the air to get stuck in the filter.
 
-### Current guess at Amazon:
-* [Room filter](https://www.amazon.com/gp/product/B004VGIGVY?tag=electronicfro-20)
+### Way Too Serious
+Shelter in place: [instructions](https://www.ready.gov/shelter)
+ * Basically, how to seal up a room.
+ * You can buy window and patio door plastic insulation which can function as the sheets to cover vents, windows, and extra doors.
  
 ## Face Protection
 The typical safety standards for wildfire is n95- n100 or P95-p100. The difference between P and N is that P is also oil resistant. Notice this only filters out particles and not gasses like CO, or CO2. The problem with the cheaper masks is you need good face contact. P95 masks are strictly better than N95 masks except harder to breathe in casually. Facial hair will hurt the fit of your mask, so if that matters, shave. 
@@ -93,10 +110,6 @@ Additional sources (yet to be verified) had discussed the advantages of an OV, o
 * [Replacement Pieces](https://www.amazon.com/3M-5P71PB1-6-Particulate-Filters-Pack/dp/B00NTP9MDO?tag=electronicfro-20)
   * This one is P, the heavier and harder to breathe through one).
   * Now that we have researched it more, the N is likely the wiser choice.
-
-## Way Too Serious
-Shelter in place: [instructions](https://www.ready.gov/shelter)
- * Basically, how to seal up a room.
 
 ## What About Avoiding Actual Fire?
 You can see which wildfires are burning and which have been contained at http://www.fire.ca.gov/general/firemaps
