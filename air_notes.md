@@ -52,7 +52,6 @@ The short version is: be in the best quality air you can manage. That generally 
  * Have a plan to evacuate
  
 ## Improving Indoor Air Quality
-Find something HEPA approved and make sure to check if it filters out .3 micron particles. You need to allow the same air to circulate through the purifier more than once preferably in a closed room. Each pass through hthe suggested level of filtering removes 95% of the particles.
 
 ### Air circulation
 How much a filter draws out each cycle is only half of the issue because if it only filters a small amount of air at a time it can wind up helping less than a less efficient filter which circulates far more air.
