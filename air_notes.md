@@ -43,6 +43,7 @@ The short version is: be in the best quality air you can manage. That generally 
 ### Outside 
  * Don't exert yourself or otherwise cause yourself to breath hard in bad air.
  * In your car, try to recirculate air rather than bringing new air in.
+ * Do not expect bandanas (wet or dry), sawdust masks, or anything that doesn't have the right filter on it, to help.
 ### Prepare (Ideally beforehand, but better late than never)
  * Minimize how often you have to go out
    * Make sure you have enough medication for a few days
