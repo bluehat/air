@@ -51,11 +51,29 @@ Prepare (Ideally beforehand, but better late than never)
 ## Improving Indoor Air Quality
 Find something HEPA approved and make sure to check if it filters out .3 micron particles. You need to allow the same air to circulate through the purifier more than once preferably in a closed room. Each pass through hthe suggested level of filtering removes 95% of the particles.
 
-### Credible Easy DIY Room Air Filter Option
+### What am I trying to filter for?
+You are attempting to remove smoke particles, which can be a small as 0.3 microns. 
+
+### Furnace System Filters
+#### What Do All of These Ratings Mean?
+* MERV (Minimum Efficiency Reporting Value) is the primary rating system used in the industry, both domestically and internationally. Established by ASHRAE (American Society of Heating, Refrigerating, and Air Conditioning Engineers), MERV rates a filter’s ability to capture and hold particles and pollutants.
+* MRV (Micro-Particle Performance Rating) is a rating system designed by 3M for its products. It rates the manufacturer’s filters and their ability to capture airborne particles smaller than 1 micron. It claims that its standards correspond to or improve upon MERV standards, but there is no available evidence to support this.
+* FPR (Filter Performance Rating) is a rating system developed by The Home Depot for brands sold through their stores, including Honeywell. It utilizes a color and number scale from 4 to 10 that suspiciously closely resembles MERV rating.
+
+To keep it simple, MERV is subject to testing, and the other two systems are questions of how much you trust the honesty and self-certification practices of large corporations.
+
+#### What MERV rating do I want?
+In a tutorial from the Puget Sound Clean Air Agency, MERV 13 is suggested for filtering wildfire smoke. 
+
+In commercial settings, MERV 14 is often the filter used for smoker's lounges.
+
+MERV 15 is suggested for hospital inpatient care, and so probably overkill.
+
+#### Credible Easy DIY Room Air Filter Option
 Adapter found this [credible and easy DIY option.](https://www.king5.com/article/news/local/this-diy-air-filter-for-wildfire-smoke-is-less-than-20/281-584346009)
 * You Need
   * A box fan
-  * A MERV 13 or FPR 10 filter for a forced air system, such as a heating system filter.
+  * A MERV 13 or FPR 10 filter
 * Basically by taping the air filter to the box fan and running it in a smaller room, ideally with few windows, you are causing a lot of bad things from the air to get stuck in the filter.
 
 ### Current guess at Amazon:
@@ -63,6 +81,10 @@ Adapter found this [credible and easy DIY option.](https://www.king5.com/article
  
 ## Face Protection
 The typical safety standards for wildfire is n95- n100 or P95-p100. The difference between P and N is that P is also oil resistant. Notice this only filters out particles and not gasses like CO, or CO2. The problem with the cheaper masks is you need good face contact. P95 masks are strictly better than N95 masks except harder to breathe in casually. Facial hair will hurt the fit of your mask, so if that matters, shave. 
+
+[N95 is what is suggested by the EPA.](https://www3.epa.gov/airnow/smoke_fires/reduce-your-smoke-exposure.pdf)
+
+Additional sources (yet to be verified) had discussed the advantages of an OV, or Organic Vapors, filter.
  
 ### Current guess at Amazon:
 * [Air Mask](https://www.amazon.com/gp/product/B00079FOK0?tag=electronicfro-20)
