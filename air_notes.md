@@ -27,7 +27,7 @@ That isn't an easy thing to know, but as a general rule, hope for rain.
 
 ## What am I supposed to be doing in general?
 The following is summarized from the [EPA's fact sheet](https://www3.epa.gov/airnow/smoke_fires/reduce-your-smoke-exposure.pdf): 
-Inside
+### Inside
 * Be in the best quality air you can manage:
   * Stay inside a building with the windows and doors shut
     * Don't do things that make indoor air quality bad like burning candles, and minimize things like cooking.
@@ -38,10 +38,10 @@ Inside
     * If your machine can't cover the whole space, go into a smaller space (with no fireplace and ideally few windows) so that your air cleaner doesn't have to keep as much space clean.
   * Watch for brief periods of improvement in air quality and, should the quality of the outside air become better than the quality of the inside air, use the opportunity to air out your house.
   * Have respirators.
-Outside 
+### Outside 
  * Don't exert yourself or otherwise cause yourself to breath hard in bad air.
  * In your car, try to recirculate air rather than bringing new air in.
-Prepare (Ideally beforehand, but better late than never)
+### Prepare (Ideally beforehand, but better late than never)
  * Minimize how often you have to go out
    * Make sure you have enough medication for a few days
    * Make sure you have some food and water.
@@ -63,7 +63,7 @@ You are attempting to remove smoke particles, which can be a small as 0.3 micron
 To keep it simple, MERV is subject to testing, and the other two systems are questions of how much you trust the honesty and self-certification practices of large corporations.
 
 #### What MERV rating do I want?
-In a tutorial from the Puget Sound Clean Air Agency, MERV 13 is suggested for filtering wildfire smoke. 
+In a tutorial from the Puget Sound Clean Air Agency, MERV 13 is suggested for filtering wildfire smoke (though so was FPR 10). 
 
 In commercial settings, MERV 14 is often the filter used for smoker's lounges.
 
