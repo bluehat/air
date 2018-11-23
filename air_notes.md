@@ -97,7 +97,7 @@ Shelter in place: [instructions](https://www.ready.gov/shelter)
  * You can buy window and patio door plastic insulation which can function as the sheets to cover vents, windows, and extra doors.
  
 ## Face Protection
-The typical safety standards for wildfire is n95- n100 or P95-p100. The difference between P and N is that P is also oil resistant. Notice this only filters out particles and not gasses like CO, or CO2. The problem with the cheaper masks is you need good face contact. P95 masks are strictly better than N95 masks except harder to breathe in casually. Facial hair will hurt the fit of your mask, so if that matters, shave. 
+The typical safety standards for wildfire is n95- n100 or P95-p100. The difference between P and N is that P is also oil resistant. Notice this only filters out particles and not gasses like CO, or CO2. The problem with the cheaper masks is you need good face contact. P95 masks are strictly better than N95 masks though, depending on the mask, sometimes harder to breathe in casually. Facial hair will hurt the fit of your mask, so if that matters, shave. 
 
 [N95](https://www3.epa.gov/airnow/smoke_fires/reduce-your-smoke-exposure.pdf) or [P100](https://www3.epa.gov/airnow/smoke_fires/respiratory-protection-508.pdf) is what is suggested by the EPA.
 
@@ -106,6 +106,7 @@ The United States Forest Service studied face respirators for usage in wildfire 
 ### Current guess at Amazon:
 * [Air Mask](https://www.amazon.com/3M-7512PA1-Professional-Respirator-Medium/dp/B000XBFJP2?tag=electronicfro-20)
   * Not sure this is amazing, it was just around and met all the basic specs.
+  * It is incredibly comfortable to wear though. You will know there is something on your face due to the physical weight, but not from how warm it is or how difficult it is to inhale.
   * This includes cartridges with organic vapor cartridges, but not acid gas.
   * Also excellent for obnoxious Bane impressions
 * [Replacement Pieces](https://www.amazon.com/3M-5P71PB1-6-Particulate-Filters-Pack/dp/B00NTP9MDO?tag=electronicfro-20)
