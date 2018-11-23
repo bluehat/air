@@ -99,17 +99,18 @@ Shelter in place: [instructions](https://www.ready.gov/shelter)
 ## Face Protection
 The typical safety standards for wildfire is n95- n100 or P95-p100. The difference between P and N is that P is also oil resistant. Notice this only filters out particles and not gasses like CO, or CO2. The problem with the cheaper masks is you need good face contact. P95 masks are strictly better than N95 masks except harder to breathe in casually. Facial hair will hurt the fit of your mask, so if that matters, shave. 
 
-[N95 is what is suggested by the EPA.](https://www3.epa.gov/airnow/smoke_fires/reduce-your-smoke-exposure.pdf)
+[N95](https://www3.epa.gov/airnow/smoke_fires/reduce-your-smoke-exposure.pdf) or [P100](https://www3.epa.gov/airnow/smoke_fires/respiratory-protection-508.pdf) is what is suggested by the EPA.
 
-Additional sources (yet to be verified) had discussed the advantages of an OV, or Organic Vapors, filter.
+The United States Forest Service studied face respirators for usage in wildfire fighting. They eventually decided they will only be used voluntarily, and that ["NIOSH-approved respirators could be considered." They list respirators with combination organic vapor/acid gas cartridge and N95 filter.](https://www.fs.fed.us/eng/pubs/pdf/hi_res/07511301hi.pdf)
  
 ### Current guess at Amazon:
-* [Air Mask](https://www.amazon.com/gp/product/B00079FOK0?tag=electronicfro-20)
-  * Not sure this is amazing, it was just around.
+* [Air Mask](https://www.amazon.com/3M-7512PA1-Professional-Respirator-Medium/dp/B000XBFJP2?tag=electronicfro-20)
+  * Not sure this is amazing, it was just around and met all the basic specs.
+  * This includes cartridges with organic vapor cartridges, but not acid gas.
   * Also excellent for obnoxious Bane impressions
 * [Replacement Pieces](https://www.amazon.com/3M-5P71PB1-6-Particulate-Filters-Pack/dp/B00NTP9MDO?tag=electronicfro-20)
-  * This one is P, the heavier and harder to breathe through one).
-  * Now that we have researched it more, the N is likely the wiser choice.
+  * This contains P95 filters.
+  * It also contains a new set of cartridges for the organic vapor, but not for acid gas.
 
 ## What About Avoiding Actual Fire?
 You can see which wildfires are burning and which have been contained at http://www.fire.ca.gov/general/firemaps
