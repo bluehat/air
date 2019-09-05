@@ -22,8 +22,11 @@ You can check the AQI for your local area online.
 | 200+ | Very Unhealthy (Purple) | "Health alert: everyone may experience more serious health effects." | "Active children and adults, and people with respiratory disease, such as asthma, should avoid all outdoor exertion; everyone else, especially children, should limit outdoor exertion." |
 | 300+ | Hazardous (Maroon) | "Health warnings of emergency conditions. The entire population is more likely to be affected." | "Everyone should avoid all outdoor exertion." |
 
-### When will my AQI improve?
-That isn't an easy thing to know, but as a general rule, hope for rain.
+## Forecasting
+
+It is hard to forecast fires because, like most weather, unknowns compound rapidly. If you're asking for when the terrible situation currently around you will stop, a good general rule is to hope for rain.
+
+You can get high-level information about the risk of wildfires from the [National Interagency Fire Center](https://www.predictiveservices.nifc.gov/outlooks/monthly_seasonal_outlook.pdf) That report is updated every month.
 
 ## What am I supposed to be doing in general?
 The following is summarized from the [EPA's fact sheet](https://www3.epa.gov/airnow/smoke_fires/reduce-your-smoke-exposure.pdf)
