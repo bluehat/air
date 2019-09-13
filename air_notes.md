@@ -22,7 +22,7 @@ The most exact way to check your AQI is to buy a kit which measures it.
 
 (*this part of the guide is still being developed, please help*)
 * Here is [the suggestion from Wirecutter](https://www.amazon.com/dp/B004AWEG0Y?tag=electronicfro-20). It covers "large and small" particles and it is not clear why it is so expensive.
-* Here is [one](https://www.amazon.com/gp/product/B077HRXWGP?tag=electronicfro-20) which is $100 cheaper and also monitors volitile organic compounds.
+* Here is [one](https://www.amazon.com/gp/product/B077HRXWGP?tag=electronicfro-20) which is $100 cheaper and also monitors volitile organic compounds. It isn't clear why it is so much less expensive, especially with the extra sensor.
 
 #### Checking Online
 You can check the AQI for your local area online.
