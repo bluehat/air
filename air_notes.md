@@ -16,13 +16,13 @@ There are two common ways to measure air quality. One is the various levels of i
 | 300+ | Hazardous (Maroon) | "Health warnings of emergency conditions. The entire population is more likely to be affected." | "Everyone should avoid all outdoor exertion." |
 
 ### How do I check my AQI?
+
+#### Measuring Kits
 The most exact way to check your AQI is to buy a kit which measures it.
 
 (*this part of the guide is still being developed, please help*)
 * Here is [the suggestion from Wirecutter](https://www.amazon.com/dp/B004AWEG0Y?tag=electronicfro-20). It covers "large and small" particles and it is not clear why it is so expensive.
-* Here is (one)[https://www.amazon.com/gp/product/B077HRXWGP?tag=electronicfro-20] which is $100 cheaper and also monitors volitile organic compounds.
-
-#### Measuring Kits 
+* Here is [one](https://www.amazon.com/gp/product/B077HRXWGP?tag=electronicfro-20) which is $100 cheaper and also monitors volitile organic compounds.
 
 #### Checking Online
 You can check the AQI for your local area online.
