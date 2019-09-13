@@ -5,13 +5,6 @@ Referral links benefit the [EFF](https://www.eff.org/).
 
 ## Air Quality
 There are two common ways to measure air quality. One is the various levels of individual particles, and one is an aggregated score called the Air Quality Index, or AQI. For this section, we're mostly going to use AQI.
-
-### How do I check my AQI?
-The most exact way to check your AQI is to buy a kit which measures it.
-
-You can check the AQI for your local area online.
-* Here is the [one that loads](http://aqicn.org/here/) It tends to give very optimistic numbers.
-* Here is the [much cooler one that doesn't really load right](https://www.purpleair.com) It gives far higher readings. There have been historical instances where these home weather stations were more trustworthy then larger sources.
     
 ### What do these numbers mean?
 
@@ -21,6 +14,20 @@ You can check the AQI for your local area online.
 | 150+ | Unhealthy (Red) | "Everyone may begin to experience health effects; members of sensitive groups may experience more serious health effects." | "Active children and adults, and people with respiratory disease, such as asthma, should avoid prolonged outdoor exertion; everyone else, especially children, should limit prolonged outdoor exertion." |
 | 200+ | Very Unhealthy (Purple) | "Health alert: everyone may experience more serious health effects." | "Active children and adults, and people with respiratory disease, such as asthma, should avoid all outdoor exertion; everyone else, especially children, should limit outdoor exertion." |
 | 300+ | Hazardous (Maroon) | "Health warnings of emergency conditions. The entire population is more likely to be affected." | "Everyone should avoid all outdoor exertion." |
+
+### How do I check my AQI?
+The most exact way to check your AQI is to buy a kit which measures it.
+
+(*this part of the guide is still being developed, please help*)
+* Here is [the suggestion from Wirecutter](https://www.amazon.com/dp/B004AWEG0Y?tag=electronicfro-20). It covers "large and small" particles and it is not clear why it is so expensive.
+* Here is (one)[https://www.amazon.com/gp/product/B077HRXWGP?tag=electronicfro-20] which is $100 cheaper and also monitors volitile organic compounds.
+
+#### Measuring Kits 
+
+#### Checking Online
+You can check the AQI for your local area online.
+* Here is the [one that loads](http://aqicn.org/here/) It tends to give very optimistic numbers.
+* Here is the [much cooler one that doesn't really load right](https://www.purpleair.com) It gives far higher readings. There have been historical instances where these home weather stations were more trustworthy then larger sources.
 
 ## Forecasting
 
