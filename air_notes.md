@@ -74,8 +74,9 @@ HEPA is a standard maintained by the United States Department of Energy (though 
 
 This means it is a very good filter. The problem is that it might take a long time to get all of the air in your house through an appliance which barely creates a breeze and which is also small enough to sit on your coffee table.
 
-#### Current guess at Amazon:
-* [Room filter](https://www.amazon.com/gp/product/B004VGIGVY?tag=electronicfro-20)
+#### Things with fast delivery which meet the specs:
+* [The wirecutter pick](https://www.amazon.com/dp/B01728NLRG?tag=electronicfro-20) which is a sturdy wonderful little thing. Replacement filters are also relatively cheap and come in large packages. Don't forget to open it up and remove the shrink wrap on the filter. 
+* [Some other one](https://www.amazon.com/gp/product/B004VGIGVY?tag=electronicfro-20) because these start selling out quickly. It meets the specs. 
 
 ### Furnace System Filters
 As a rule, furnace systems do not have HEPA ratings because they have to circulate a lot of air and it is pretty hard to remove so many particles in a single pass. At the same time, most systems that use them will circulate all of the air in your house repeatedly in a relatively short timespan.
