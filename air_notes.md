@@ -95,16 +95,16 @@ In commercial settings, MERV 14 is often the filter used for smoker's lounges.
 MERV 15 is suggested for hospital inpatient care, and so probably overkill.
 
 #### Credible Easy DIY Room Air Filter Option
-Adapter found this [credible and easy DIY option.](https://www.king5.com/article/news/local/this-diy-air-filter-for-wildfire-smoke-is-less-than-20/281-584346009)
+Adapter found this [credible and easy DIY option.](https://www.king5.com/article/news/local/this-diy-air-filter-for-wildfire-smoke-is-less-than-20/281-584346009) The parts here are assuming you get a 20"x20" box fan.
 * You Need
-  * A box fan
-  * A MERV 13 or FPR 10 filter
+  * A [box fan](https://www.amazon.com/Holmes-HBF2001DP-BM-20-Inch-Black-Blade/dp/B00I8Q3082?tag=electronicfro-20)
+  * A [MERV 13](https://www.amazon.com/gp/product/B01CR9K33K?tag=electronicfro-20) or FPR 10 filter
 * Basically by taping the air filter to the box fan and running it in a smaller room, ideally with few windows, you are causing a lot of bad things from the air to get stuck in the filter.
 
 ### Way Too Serious
 Shelter in place: [instructions](https://www.ready.gov/shelter)
  * Basically, how to seal up a room.
- * You can buy window and patio door plastic insulation which can function as the sheets to cover vents, windows, and extra doors.
+ * You can buy [window and patio door plastic insulation](https://www.amazon.com/Duck-5-Window-Insulator-210-Inch-286217/dp/B000NHY1P0?tag=electronicfro-20) which can function as the sheets to cover vents, windows, and extra doors.
  
 ## Face Protection
 The typical safety standards for wildfire is n95- n100 or P95-p100. The difference between P and N is that P is also oil resistant. Notice this only filters out particles and not gasses like CO, or CO2. The problem with the cheaper masks is you need good face contact. P95 masks are strictly better than N95 masks though, depending on the mask, sometimes harder to breathe in casually. Facial hair will hurt the fit of your mask, so if that matters, shave. 
