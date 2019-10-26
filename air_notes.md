@@ -63,37 +63,38 @@ The short version is: be in the best quality air you can manage. That generally 
  
 ## Improving Indoor Air Quality
 
-### Air circulation
-How much a filter draws out each cycle is only half of the issue because if it only filters a small amount of air at a time it can wind up helping less than a less efficient filter which circulates far more air.
-
 ### What am I trying to filter for?
 You are attempting to remove smoke particles, which can be a small as 0.3 microns. 
 
-### HEPA
+### What do all of these standards mean?
+
+#### HEPA
 HEPA is a standard maintained by the United States Department of Energy (though it was at one point trademarked and then genericised). It requires that you remove 99.97% of all particles 0.3 microns or larger each time air passes through it.
 
 This means it is a very good filter. The problem is that it might take a long time to get all of the air in your house through an appliance which barely creates a breeze and which is also small enough to sit on your coffee table.
 
-#### Things with fast delivery which meet the specs:
-* [The wirecutter pick](https://www.amazon.com/dp/B01728NLRG?tag=electronicfro-20) which is a sturdy wonderful little thing. Replacement filters are also relatively cheap and come in large packages. Don't forget to open it up and remove the shrink wrap on the filter. 
-* [Some other one](https://www.amazon.com/gp/product/B004VGIGVY?tag=electronicfro-20) because these start selling out quickly. It meets the specs. 
-
-### Furnace System Filters
+#### Furnace System Filters
 As a rule, furnace systems do not have HEPA ratings because they have to circulate a lot of air and it is pretty hard to remove so many particles in a single pass. At the same time, most systems that use them will circulate all of the air in your house repeatedly in a relatively short timespan.
 
-#### What Do All of These Ratings Mean?
+##### Furnace filter ratings
 * MERV (Minimum Efficiency Reporting Value) is the primary rating system used in the industry, both domestically and internationally. Established by ASHRAE (American Society of Heating, Refrigerating, and Air Conditioning Engineers), MERV rates a filter’s ability to capture and hold particles and pollutants.
 * MRV (Micro-Particle Performance Rating) is a rating system designed by 3M for its products. It rates the manufacturer’s filters and their ability to capture airborne particles smaller than 1 micron. It claims that its standards correspond to or improve upon MERV standards, but there is no available evidence to support this.
 * FPR (Filter Performance Rating) is a rating system developed by The Home Depot for brands sold through their stores, including Honeywell. It utilizes a color and number scale from 4 to 10 that suspiciously closely resembles MERV rating.
 
 To keep it simple, MERV is subject to testing, and the other two systems are questions of how much you trust the honesty and self-certification practices of large corporations.
 
-#### What MERV rating do I want?
+##### What MERV rating do I want?
 In a tutorial from the Puget Sound Clean Air Agency, MERV 13 is suggested for filtering wildfire smoke (though so was FPR 10). 
 
 In commercial settings, MERV 14 is often the filter used for smoker's lounges.
 
 MERV 15 is suggested for hospital inpatient care, and so probably overkill.
+
+### Methods to improve indoor air ###
+#### Off-the-shelf HEPA filters
+* [The wirecutter pick](https://www.amazon.com/dp/B01728NLRG?tag=electronicfro-20) which is a sturdy wonderful little thing. Replacement filters are also relatively cheap and come in large packages. Don't forget to open it up and remove the shrink wrap on the filter. 
+* [Some other one](https://www.amazon.com/gp/product/B004VGIGVY?tag=electronicfro-20) because these start selling out quickly. It meets the specs. 
+
 
 #### Credible Easy DIY Room Air Filter Option
 Adapter found this [credible and easy DIY option.](https://www.king5.com/article/news/local/this-diy-air-filter-for-wildfire-smoke-is-less-than-20/281-584346009) The parts here are assuming you get a 20"x20" box fan.
@@ -113,7 +114,7 @@ Adapter found this [credible and easy DIY option.](https://www.king5.com/article
   * If you are having trouble keeping the whole house clean, you can just pick a smaller space.
   * Rooms with fewer windows, no fire place, and no vents work better.
 
-### Way Too Serious
+#### Way Too Serious
 Shelter in place: [instructions](https://www.ready.gov/shelter)
  * Basically, how to seal up a room.
  * You can buy [window and patio door plastic insulation](https://www.amazon.com/Duck-5-Window-Insulator-210-Inch-286217/dp/B000NHY1P0?tag=electronicfro-20) which can function as the sheets to cover vents, windows, and extra doors.
