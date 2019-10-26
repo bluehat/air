@@ -146,7 +146,7 @@ Many options are listed here
 
 * Air masks with cartridges
   * With [both organic vapor and acid gas filtering](https://www.amazon.com/3M-Medium-Respirator-Organic-3MR5203/dp/B00LXF98DQ2?tag=electronicfro-20). It is not clear that this mask is compatible with any of the replacement pieces I have been able to find.
-  * With [Organic Vapor filtration](https://www.amazon.com/3M-7512PA1-Professional-Respirator-Medium/dp/B000XBFJP2?tag=electronicfro-20) but not acid gas. This particular mask is not suggested by any expert, but it most specs and, is compatable with the replacement parts, and is very comfortable to wear and breathe in.
+  * With [Organic Vapor filtration](https://www.amazon.com/3M-7512PA1-Professional-Respirator-Medium/dp/B000XBFJP2?tag=electronicfro-20) but not acid gas. This particular mask is not suggested by any expert, but it most specs, is compatable with the replacement parts, and is very comfortable to wear and breathe in.
   * Both options are also excellent for obnoxious Bane impressions
 * Replacement Pieces
   * [P100 filters with both organic vapor and acid gas filtration](https://www.amazon.com/Cartridge-Filter-60923-Organic-Vapor/dp/B07571LKP3??tag=electronicfro-20).
