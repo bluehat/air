@@ -107,7 +107,7 @@ Adapter found this [credible and easy DIY option.](https://www.king5.com/article
   * The direction the air is supposed to go should be marked on the filter with and arrow.
   * An airtight seal will help make sure all the box fan draws the air through the filter.
   * Fans with the power plugs and speed controls not on the back are better suited for this.
-  * If your box fan does have the speed control, you have two major options
+  * If your box fan does have the speed control or power cord inconveniently on the back, you have two major options
     * Poke holes through the back of the filter to put the plug in and access the speed controller. This will let you control the speed, but makes replacing the filter highly inconvenient.
     * Create a cardboard spacer which moves the filter back from the fan. This lets you plug it in, but often makes it hard to access the speed control. It is very easy to replace the filter though because you just cut it off the back.
 * Usage
@@ -119,23 +119,46 @@ Shelter in place: [instructions](https://www.ready.gov/shelter)
  * Basically, how to seal up a room.
  * You can buy [window and patio door plastic insulation](https://www.amazon.com/Duck-5-Window-Insulator-210-Inch-286217/dp/B000NHY1P0?tag=electronicfro-20) which can function as the sheets to cover vents, windows, and extra doors.
  
-## Face Protection
-The typical safety standards for wildfire is n95- n100 or P95-p100. The difference between P and N is that P is also oil resistant. Notice this only filters out particles and not gasses like CO, or CO2. The problem with the cheaper masks is you need good face contact. P95 masks are strictly better than N95 masks though, depending on the mask, sometimes harder to breathe in casually. Facial hair will hurt the fit of your mask, so if that matters, shave. 
+## Face Protection (Masks)
 
-[N95](https://www3.epa.gov/airnow/smoke_fires/reduce-your-smoke-exposure.pdf) or [P100](https://www3.epa.gov/airnow/smoke_fires/respiratory-protection-508.pdf) is what is suggested by the EPA.
+* Not everybody can wear masks. Some small children, some pets, and some other respiratory-damaged individuals do not have strong enough lungs to draw new filter into the mask and push old air out.
+* In this case, an option is to focus more on handling air quality within a room.
 
-The United States Forest Service studied face respirators for usage in wildfire fighting. They eventually decided they will only be used voluntarily, and that ["NIOSH-approved respirators could be considered." They list respirators with combination organic vapor/acid gas cartridge and N95 filter.](https://www.fs.fed.us/eng/pubs/pdf/hi_res/07511301hi.pdf)
+### Filters
+* Masks are only as good as the seal on your face.
+  * You can get more complete facial contact with a paint respirator.
+  * Facial hair will hurt the fit of your mask, so if that matters, shave.
+* The EPA suggests [N95](https://www3.epa.gov/airnow/smoke_fires/reduce-your-smoke-exposure.pdf) - n100 or P95 - [P100](https://www3.epa.gov/airnow/smoke_fires/respiratory-protection-508.pdf). 
+  * The higher the number, the more particulates are filtered. 
+  * The difference between P and N is that P is also oil resistant.
+  * P95 masks are strictly better than N95 masks though, depending on the mask, sometimes harder to breathe in casually.
+* These filters only remove particles, and not gasses such as CO, CO2, and plastic fumes.
+
+### Cartridges
+* Many respirators additionally come with cartridges.
+* Thes cartridges are used in industrial settings to filter a variety of gasses, with different specialized cartridges for different applications.
+* The United States Forest Service studied face respirators for usage in wildfire fighting. They eventually decided they will only be used voluntarily, and that ["NIOSH-approved respirators could be considered." They list respirators with combination organic vapor/acid gas cartridge and N95 filter.](https://www.fs.fed.us/eng/pubs/pdf/hi_res/07511301hi.pdf)
  
 ### Current guess at Amazon:
-* [Air Mask](https://www.amazon.com/3M-7512PA1-Professional-Respirator-Medium/dp/B000XBFJP2?tag=electronicfro-20)
-  * Not sure this is amazing, it was just around and met all the basic specs.
-  * It is incredibly comfortable to wear though. You will know there is something on your face due to the physical weight, but not from how warm it is or how difficult it is to inhale.
-  * This includes cartridges with organic vapor cartridges, but not acid gas.
-  * Also excellent for obnoxious Bane impressions
-* [Replacement Pieces](https://www.amazon.com/3M-5P71PB1-6-Particulate-Filters-Pack/dp/B00NTP9MDO?tag=electronicfro-20)
-  * This contains P95 filters.
-  * It also contains a new set of cartridges for the organic vapor, but not for acid gas.
+Many options are listed here
+* In 2018 when the smoke got severe, Amazon sold out of basically everything
+* The cartridges "expire" and technically should not be used after being open for more than a set period. This means that if you followed the letter of the instructions, you might replace them each year.
 
+* Air masks with cartridges
+  * With [both organic vapor and acid gas filtering](https://www.amazon.com/3M-Medium-Respirator-Organic-3MR5203/dp/B00LXF98DQ2?tag=electronicfro-20). It is not clear that this mask is compatible with any of the replacement pieces I have been able to find.
+  * With [Organic Vapor filtration](https://www.amazon.com/3M-7512PA1-Professional-Respirator-Medium/dp/B000XBFJP2?tag=electronicfro-20) but not acid gas. This particular mask is not suggested by any expert, but it most specs and, is compatable with the replacement parts, and is very comfortable to wear and breathe in.
+  * Both options are also excellent for obnoxious Bane impressions
+* Replacement Pieces
+  * [P100 filters with both organic vapor and acid gas filtration](https://www.amazon.com/Cartridge-Filter-60923-Organic-Vapor/dp/B07571LKP3??tag=electronicfro-20).
+  * [Cartridges with both organic vapor and acid gas filtration](https://www.amazon.com/3M-50051131070474-Organic-Vapor-Cartridge/dp/B07578JZWG?tag=electronicfro-20) but no filters. 
+  * New [P95 filters with organic vapor cartridges](https://www.amazon.com/3M-5P71PB1-6-Particulate-Filters-Pack/dp/B00NTP9MDO?tag=electronicfro-20) but no acid gas.
+* Sometimes smoke tastes plasticky
+  * Plastic fumes can cause a [wide variety of vapors](https://www.sentryair.com/plastic-fumes.htm)
+  * The 3M acid gas cartridges claim to filter the largest subset of them. Acid gas and organic vapor are the two kinds of cartridges suggested by the United States Forest Service. 
+  * However, formaldyhide is technically listed on the list of vapors which come from plastic.
+  * Here are [formaldihyde and acid gas cartridges](https://www.amazon.com/3M-Low-Maintenance-Cartridge-Purifying-Respirator/dp/B00AEFCP0E?tag=electronicfro-20) without organic vapor filtration. While the option might not be the best for wildfires, other metropolitan areas have been impacted by factory accidents. There may be specific cases where these cartridges are more appropriate.
+  * Here is a specific [cartridge for organic vapor and formaldahyde](https://www.amazon.com/3M-Formaldehyde-Cartridge-Respiratory-Protection/dp/B0017DHGTW?tag=electronicfro-20) without acid gas filtration. There is probably an edge case where these are the most relevant option.
+  
 ## What About Avoiding Actual Fire?
 You can see which wildfires are burning and which have been contained at http://www.fire.ca.gov/general/firemaps
 
