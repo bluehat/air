@@ -98,9 +98,19 @@ MERV 15 is suggested for hospital inpatient care, and so probably overkill.
 #### Credible Easy DIY Room Air Filter Option
 Adapter found this [credible and easy DIY option.](https://www.king5.com/article/news/local/this-diy-air-filter-for-wildfire-smoke-is-less-than-20/281-584346009) The parts here are assuming you get a 20"x20" box fan.
 * You Need
-  * A [box fan](https://www.amazon.com/Holmes-HBF2001DP-BM-20-Inch-Black-Blade/dp/B00I8Q3082?tag=electronicfro-20)
-  * A [MERV 13](https://www.amazon.com/gp/product/B01CR9K33K?tag=electronicfro-20) or FPR 10 filter
-* Basically by taping the air filter to the box fan and running it in a smaller room, ideally with few windows, you are causing a lot of bad things from the air to get stuck in the filter.
+  * A [box fan](https://www.amazon.com/Holmes-HBF2001DP-BM-20-Inch-Black-Blade/dp/B00I8Q3082?tag=electronicfro-20). This one is the cheapest fan on prime. Unfortunately, the power cord and speed control are on the back, which is inconvenient for construction.
+  * A [MERV 13](https://www.amazon.com/gp/product/B01CR9K33K?tag=electronicfro-20) or FPR 10 filter. We have reason to trust MERV more.
+* Construction
+  * Tape the air filter to the intake of the box fan.
+  * The direction the air is supposed to go should be marked on the filter with and arrow.
+  * An airtight seal will help make sure all the box fan draws the air through the filter.
+  * Fans with the power plugs and speed controls not on the back are better suited for this.
+  * If your box fan does have the speed control, you have two major options
+    * Poke holes through the back of the filter to put the plug in and access the speed controller. This will let you control the speed, but makes replacing the filter highly inconvenient.
+    * Create a cardboard spacer which moves the filter back from the fan. This lets you plug it in, but often makes it hard to access the speed control. It is very easy to replace the filter though because you just cut it off the back.
+* Usage
+  * If you are having trouble keeping the whole house clean, you can just pick a smaller space.
+  * Rooms with fewer windows, no fire place, and no vents work better.
 
 ### Way Too Serious
 Shelter in place: [instructions](https://www.ready.gov/shelter)
