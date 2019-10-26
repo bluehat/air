@@ -97,9 +97,10 @@ MERV 15 is suggested for hospital inpatient care, and so probably overkill.
 
 #### Credible Easy DIY Room Air Filter Option
 Adapter found this [credible and easy DIY option.](https://www.king5.com/article/news/local/this-diy-air-filter-for-wildfire-smoke-is-less-than-20/281-584346009) The parts here are assuming you get a 20"x20" box fan.
-* You Need
+* Materials
   * A [box fan](https://www.amazon.com/Holmes-HBF2001DP-BM-20-Inch-Black-Blade/dp/B00I8Q3082?tag=electronicfro-20). This one is the cheapest fan on prime. Unfortunately, the power cord and speed control are on the back, which is inconvenient for construction.
   * A [MERV 13](https://www.amazon.com/gp/product/B01CR9K33K?tag=electronicfro-20) or FPR 10 filter. We have reason to trust MERV more.
+  * Tape. Ideally this would be an air-tight tape, such as duct tape. Gaffer tape and gorilla tape are also well-suited to this.
 * Construction
   * Tape the air filter to the intake of the box fan.
   * The direction the air is supposed to go should be marked on the filter with and arrow.
