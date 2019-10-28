@@ -31,9 +31,11 @@ You can check the AQI for your local area online.
 
 ## Forecasting
 
-It is hard to forecast fires because, like most weather, unknowns compound rapidly. If you're asking for when the terrible situation currently around you will stop, a good general rule is to hope for rain.
+It is hard to forecast fires because, like most weather, unknowns compound rapidly. This means that serious decisions should probably not be made based on forecasts. 
 
-You can get [detailed forecasts from the NOAA.](https://hwp-viz.gsd.esrl.noaa.gov/smoke/#) It seems the most relevant term is "near surface smoke."
+If you're asking for when the terrible situation currently around you will stop, a good general rule is to hope for rain.
+
+You can get [detailed forecasts](https://hwp-viz.gsd.esrl.noaa.gov/smoke/#) from the [NOAA.](https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration) It seems the most relevant term is "near surface smoke."
 
 You can get high-level information about the risk of wildfires from the [National Interagency Fire Center](https://www.predictiveservices.nifc.gov/outlooks/monthly_seasonal_outlook.pdf) That report is updated every month.
 
