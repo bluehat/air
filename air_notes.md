@@ -161,7 +161,7 @@ Many options are listed here
   * Here are [formaldihyde and acid gas cartridges](https://www.amazon.com/3M-Low-Maintenance-Cartridge-Purifying-Respirator/dp/B00AEFCP0E?tag=electronicfro-20) without organic vapor filtration. While the option might not be the best for wildfires, other metropolitan areas have been impacted by factory accidents. There may be specific cases where these cartridges are more appropriate.
   * Here is a specific [cartridge for organic vapor and formaldahyde](https://www.amazon.com/3M-Formaldehyde-Cartridge-Respiratory-Protection/dp/B0017DHGTW?tag=electronicfro-20) without acid gas filtration. There is probably an edge case where these are the most relevant option.
 
-## Sample loadout
+## Sample loadout for wildfires
 ### Room filtering
 * Off the shelf option: [HEPA filter](https://www.amazon.com/dp/B01728NLRG?tag=electronicfro-20). Don't forget to remove the plastic wrap inside.
 * Cheaper DIY option: a [box fan](https://www.amazon.com/Holmes-HBF2001DP-BM-20-Inch-Black-Blade/dp/B00I8Q3082?tag=electronicfro-20), a [MERV 13 furnace filter](https://www.amazon.com/gp/product/B01CR9K33K?tag=electronicfro-20) and [Duct tape](https://www.amazon.com/Multi-Use-Duct-2930-C-Inches-Yards/dp/B0013B1XHE?tag=electronicfro-20).
