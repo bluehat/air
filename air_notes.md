@@ -1,5 +1,7 @@
 # Air Notes
-It is hard to find good information online about what to do about wildfire smoke, so here is a collection of sources and information organized together. Pull requests appreciated.
+It is hard to find good information online about what to do about air quality so here is a collection of sources and information organized together. Pull requests appreciated.
+
+While this information might be applicable to many situations, it is unfortunately currently highly specialized for wild fire smoke.
 
 Referral links benefit the [EFF](https://www.eff.org/).
 
@@ -35,12 +37,12 @@ It is hard to forecast fires because, like most weather, unknowns compound rapid
 
 If you're asking for when the terrible situation currently around you will stop, a good general rule is to hope for rain.
 
-You can get [detailed forecasts](https://hwp-viz.gsd.esrl.noaa.gov/smoke/#) from the [NOAA.](https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration) It seems the most relevant term is "near surface smoke."
+You can get [detailed forecasts of smoke](https://hwp-viz.gsd.esrl.noaa.gov/smoke/#) from the [NOAA.](https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration) It seems the most relevant term is "near surface smoke."
 
 You can get high-level information about the risk of wildfires from the [National Interagency Fire Center](https://www.predictiveservices.nifc.gov/outlooks/monthly_seasonal_outlook.pdf) That report is updated every month.
 
 ## What am I supposed to be doing in general?
-The following is summarized from the [EPA's fact sheet](https://www3.epa.gov/airnow/smoke_fires/reduce-your-smoke-exposure.pdf)
+The following is summarized from the [EPA's wild fire smoke fact sheet](https://www3.epa.gov/airnow/smoke_fires/reduce-your-smoke-exposure.pdf)
 
 The short version is: be in the best quality air you can manage. That generally means, be inside.
 
@@ -68,7 +70,7 @@ The short version is: be in the best quality air you can manage. That generally 
 ## Improving Indoor Air Quality
 
 ### What am I trying to filter for?
-You are attempting to remove smoke particles, which can be a small as 0.3 microns. 
+If you are dealing with wildfire smoke, you are attempting to remove smoke particles, which can be a small as 0.3 microns. 
 
 ### What do all of these standards mean?
 
@@ -100,12 +102,12 @@ MERV 15 is suggested for hospital inpatient care, and so probably overkill.
 * [Some other one](https://www.amazon.com/gp/product/B004VGIGVY?tag=electronicfro-20) because these start selling out quickly. It meets the specs. 
 
 
-#### Credible Easy DIY Room Air Filter Option
+#### Credible easy DIY room wild fire air filter option
 Adapter found this [credible and easy DIY option.](https://www.king5.com/article/news/local/this-diy-air-filter-for-wildfire-smoke-is-less-than-20/281-584346009) The parts here are assuming you get a 20"x20" box fan.
 * Materials
   * A [box fan](https://www.amazon.com/Holmes-HBF2001DP-BM-20-Inch-Black-Blade/dp/B00I8Q3082?tag=electronicfro-20). This one is the cheapest fan on prime. Unfortunately, the power cord and speed control are on the back, which is inconvenient for construction.
   * A [MERV 13](https://www.amazon.com/gp/product/B01CR9K33K?tag=electronicfro-20) or FPR 10 filter. We have reason to trust MERV more.
-  * Tape. Ideally this would be an air-tight tape, such as duct tape. Gaffer tape and gorilla tape are also well-suited to this.
+  * Tape. Ideally this would be an air-tight tape, such as [Duct tape](https://www.amazon.com/Multi-Use-Duct-2930-C-Inches-Yards/dp/B0013B1XHE?tag=electronicfro-20). Gaffer tape and gorilla tape are also well-suited to this.
 * Construction
   * Tape the air filter to the intake of the box fan.
   * The direction the air is supposed to go should be marked on the filter with and arrow.
