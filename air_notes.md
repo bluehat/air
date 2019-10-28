@@ -168,7 +168,7 @@ Many options are listed here
 * Optional: Replacement [P100 filters with both organic vapor and acid gas filtration](https://www.amazon.com/Cartridge-Filter-60923-Organic-Vapor/dp/B07571LKP3??tag=electronicfro-20).
 
 ## What About Avoiding Actual Fire?
-You can see which wildfires are burning and which have been contained at http://www.fire.ca.gov/general/firemaps
+You can see which wildfires are burning and which have been contained at https://www.fire.ca.gov/incidents/
 
 Each Cal Fire county tends to have its own twitter feed, and this is often an OK place to get updates for your local area.
 
