@@ -162,7 +162,7 @@ Many options are listed here
 ## Sample loadout
 ### Room filtering
 * Off the shelf option: [HEPA filter](https://www.amazon.com/dp/B01728NLRG?tag=electronicfro-20). Don't forget to remove the plastic wrap inside.
-* Cheaper DIY option: [box fan](https://www.amazon.com/Holmes-HBF2001DP-BM-20-Inch-Black-Blade/dp/B00I8Q3082?tag=electronicfro-20) [MERV 13](https://www.amazon.com/gp/product/B01CR9K33K?tag=electronicfro-20) and [Duct tape](https://www.amazon.com/Multi-Use-Duct-2930-C-Inches-Yards/dp/B0013B1XHE?tag=electronicfro-20).
+* Cheaper DIY option: a [box fan](https://www.amazon.com/Holmes-HBF2001DP-BM-20-Inch-Black-Blade/dp/B00I8Q3082?tag=electronicfro-20), a [MERV 13 furnace filter](https://www.amazon.com/gp/product/B01CR9K33K?tag=electronicfro-20) and [Duct tape](https://www.amazon.com/Multi-Use-Duct-2930-C-Inches-Yards/dp/B0013B1XHE?tag=electronicfro-20).
 ### Mask
 * A mask with [Organic Vapor filtration](https://www.amazon.com/3M-7512PA1-Professional-Respirator-Medium/dp/B000XBFJP2?tag=electronicfro-20) but not acid gas. This is selected because it has easy to replace parts.
 * Optional: Replacement [P100 filters with both organic vapor and acid gas filtration](https://www.amazon.com/Cartridge-Filter-60923-Organic-Vapor/dp/B07571LKP3??tag=electronicfro-20).
