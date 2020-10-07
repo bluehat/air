@@ -7,8 +7,10 @@ Referral links benefit the [EFF](https://www.eff.org/).
 
 ## Air Quality
 There are two common ways to measure air quality. One is the various levels of individual particles, and one is an aggregated score called the Air Quality Index, or AQI. For this section, we're mostly going to use AQI.
+
+It's worth remembering that this measures how many particles they are, not how harmful the particles are. There is [some extremely preliminary evidence referenced here](https://thebolditalic.com/understanding-purpleair-vs-airnow-gov-measurements-of-wood-smoke-pollution-562923a55226?gi=775f8a0124e8) that, since wildfires burn up lots of things, that this polution is composed of more harmful particles than normal.
     
-### What do these numbers mean?
+### What do these AQI numbers mean?
 
 | Rating | Name (Color Code) | [Health Implications](https://airnow.gov/index.cfm?action=aqibasics.aqi) | Cautionary Statement for [PM2.5](https://aqicn.org/faq/2015-03-15/air-quality-nowcast-a-beginners-guide/) |
 |---|---|---|---|
@@ -29,7 +31,9 @@ The most exact way to check your AQI is to buy a kit which measures it.
 #### Checking Online
 You can check the AQI for your local area online.
 * Here is the [one that loads](http://aqicn.org/here/) It tends to give very optimistic numbers.
-* Here is the [much cooler one that doesn't really load right](https://www.purpleair.com) It gives far higher readings. There have been historical instances where these home weather stations were more trustworthy then larger sources.
+* Here is [one operated by the US government](https://www.airnow.gov/)
+* Here is the [a crowdsourced option with fantastic data but a less robust website](https://www.purpleair.com) It gives far higher readings. There have been historical instances where these home weather stations were more trustworthy then larger sources.
+* Some of these reading differences can be explained and compensated for [in this article](https://thebolditalic.com/understanding-purpleair-vs-airnow-gov-measurements-of-wood-smoke-pollution-562923a55226?gi=775f8a0124e8)
 
 ## Forecasting
 
