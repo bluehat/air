@@ -5,6 +5,16 @@ While this information might be applicable to many situations, it is unfortunate
 
 Referral links benefit the [EFF](https://www.eff.org/).
 
+## tl;dr: here's what a basic loadout might look like. More complete options are in the specialized sections.
+### Room filtering
+* [Off the shelf option which is good for a smaller space](#user-content-off-the-shelf-hepa-filters)
+* [Cheaper DIY option good for a larger space](#user-content-easy-diy-room-wild-fire-air-filter-option)
+### Mask
+* A mask with [Organic Vapor filtration](https://www.amazon.com/3M-7512PA1-Professional-Respirator-Medium/dp/B000XBFJP2?tag=electronicfro-20) but not acid gas. This is selected because it has easy to replace parts.
+* Optional: Replacement [P100 filters with both organic vapor and acid gas filtration](https://www.amazon.com/Cartridge-Filter-60923-Organic-Vapor/dp/B07571LKP3?tag=electronicfro-20).
+### Optional: Car power inverter
+* [Option](https://www.amazon.com/BESTEK-300W-Power-Inverter-Adapter/dp/B004MDXS0U?tag=electronicfro-20) if you need to evacuate or want to go long distances in a car, especially if you have a pet. 
+
 ## Air Quality
 There are two common ways to measure air quality. One is the various levels of individual particles, and one is an aggregated score called the Air Quality Index, or AQI. For this section, we're mostly going to use AQI.
 
@@ -150,7 +160,7 @@ Shelter in place: [instructions](https://www.ready.gov/shelter)
 * Thes cartridges are used in industrial settings to filter a variety of gasses, with different specialized cartridges for different applications.
 * The United States Forest Service studied face respirators for usage in wildfire fighting. They eventually decided they will only be used voluntarily, and that ["NIOSH-approved respirators could be considered." They list respirators with combination organic vapor/acid gas cartridge and N95 filter.](https://www.fs.fed.us/eng/pubs/pdf/hi_res/07511301hi.pdf)
  
-### Current guess at Amazon:
+### Current guess on Amazon:
 Many options are listed here
 * In 2018 when the smoke got severe, Amazon sold out of basically everything
 * The cartridges "expire" and technically should not be used after being open for more than a set period. This means that if you followed the letter of the instructions, you might replace them each year.
@@ -169,14 +179,6 @@ Many options are listed here
   * However, formaldyhide is technically listed on the list of vapors which come from plastic.
   * Here are [formaldihyde and acid gas cartridges](https://www.amazon.com/3M-Low-Maintenance-Cartridge-Purifying-Respirator/dp/B00AEFCP0E?tag=electronicfro-20) without organic vapor filtration. While the option might not be the best for wildfires, other metropolitan areas have been impacted by factory accidents. There may be specific cases where these cartridges are more appropriate.
   * Here is a specific [cartridge for organic vapor and formaldahyde](https://www.amazon.com/3M-Formaldehyde-Cartridge-Respiratory-Protection/dp/B0017DHGTW?tag=electronicfro-20) without acid gas filtration. There is probably an edge case where these are the most relevant option.
-
-## Sample loadout for wildfires
-### Room filtering
-* Off the shelf option: [HEPA filter](https://www.amazon.com/dp/B01728NLRG?tag=electronicfro-20). Don't forget to remove the plastic wrap inside.
-* Cheaper DIY option: a [box fan](https://www.amazon.com/Holmes-HBF2001DP-BM-20-Inch-Black-Blade/dp/B00I8Q3082?tag=electronicfro-20), a [MERV 13 furnace filter](https://www.amazon.com/gp/product/B01CR9K33K?tag=electronicfro-20) and [Duct tape](https://www.amazon.com/Multi-Use-Duct-2930-C-Inches-Yards/dp/B0013B1XHE?tag=electronicfro-20).
-### Mask
-* A mask with [Organic Vapor filtration](https://www.amazon.com/3M-7512PA1-Professional-Respirator-Medium/dp/B000XBFJP2?tag=electronicfro-20) but not acid gas. This is selected because it has easy to replace parts.
-* Optional: Replacement [P100 filters with both organic vapor and acid gas filtration](https://www.amazon.com/Cartridge-Filter-60923-Organic-Vapor/dp/B07571LKP3??tag=electronicfro-20).
 
 ## What About Avoiding Actual Fire?
 You can see which wildfires are burning and which have been contained at https://www.fire.ca.gov/incidents/
