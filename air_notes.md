@@ -56,7 +56,7 @@ The short version is: be in the best quality air you can manage. That generally 
   * If it is too hot to keep the windows closed, seek shelter elsewhere
 * Improve the quality of the air you breathe
   * Purify the air in your home.
-    * Do not use a machine which makes ozone. Ozone is very bad for you.
+    * Do not use a machine which makes ozone. Ozone is very bad for you. 
   * If your machine can't cover the whole space, go into a smaller space (with no fireplace and ideally few windows) so that your air cleaner doesn't have to keep as much space clean.
 * Watch for brief periods of improvement in air quality and, should the quality of the outside air become better than the quality of the inside air, use the opportunity to air out your house.
 * Have respirators.
@@ -106,20 +106,21 @@ MERV 15 is suggested for hospital inpatient care, and so probably overkill.
 * [Some other one](https://www.amazon.com/gp/product/B004VGIGVY?tag=electronicfro-20) because these start selling out quickly. It meets the specs. 
 
 
-#### Credible easy DIY room wild fire air filter option
-Adapter found this [credible and easy DIY option.](https://www.king5.com/article/news/local/this-diy-air-filter-for-wildfire-smoke-is-less-than-20/281-584346009) The parts here are assuming you get a 20"x20" box fan.
+#### Easy DIY room wild fire air filter option
+Adapter found this [credible and easy DIY option.](https://www.king5.com/article/news/local/this-diy-air-filter-for-wildfire-smoke-is-less-than-20/281-584346009) The parts here are assuming you get a 20"x20" box fan. It has, to a degree, become the cultural go-to due to its cheap price, easy-to-find replacement filters, and capacity to manage the air in a larger space.
 * Materials
-  * A [box fan](https://www.amazon.com/Holmes-HBF2001DP-BM-20-Inch-Black-Blade/dp/B00I8Q3082?tag=electronicfro-20). This one is the cheapest fan on prime. Unfortunately, the power cord and speed control are on the back, which is inconvenient for construction.
+  * A box fan
+    * Here is [a solidly-built fan](https://www.amazon.com/Lasko-B20301-20-Inch-Premium-3-SPEED/dp/B01CEITGQ4?tag=electronicfro-20) which has the control someplace other than on the back and the cord at the base. This is vastly preferred since the filter doesn't interfere with changing the settings.
+    * [The cheapest fan on prime](https://www.amazon.com/Holmes-HBF2001DP-BM-20-Inch-Black-Blade/dp/B00I8Q3082?tag=electronicfro-20). Unfortunately, the power cord and speed control are on the back, which is inconvenient for construction.
   * A [MERV 13](https://www.amazon.com/gp/product/B01CR9K33K?tag=electronicfro-20) or FPR 10 filter. We have reason to trust MERV more.
   * Tape. Ideally this would be an air-tight tape, such as [Duct tape](https://www.amazon.com/Multi-Use-Duct-2930-C-Inches-Yards/dp/B0013B1XHE?tag=electronicfro-20). Gaffer tape and gorilla tape are also well-suited to this.
 * Construction
   * Tape the air filter to the intake of the box fan.
   * The direction the air is supposed to go should be marked on the filter with and arrow.
-  * An airtight seal will help make sure all the box fan draws the air through the filter.
-  * Fans with the power plugs and speed controls not on the back are better suited for this.
-  * If your box fan does have the speed control or power cord inconveniently on the back, you have two major options
-    * Poke holes through the back of the filter to put the plug in and access the speed controller. This will let you control the speed, but makes replacing the filter highly inconvenient.
-    * Create a cardboard spacer which moves the filter back from the fan. This lets you plug it in, but often makes it hard to access the speed control. It is very easy to replace the filter though because you just cut it off the back.
+  * An airtight seal will help make sure all the box fan draws the air through the filter. This is what the tape is for.
+  * If your box fan does have the power cord inconveniently placed on the back, you have two major options
+    * Poke holes through the back of the filter to put the plug in and access the speed controller, and then duct tape aggressively around it. This will let you control the speed, but makes replacing the filter highly inconvenient. It is not reccommended.
+    * Create a cardboard spacer which moves the filter back from the fan. This lets you plug it in, but doesn't give you access to the speed settings. It is very easy to replace the filter though because you just cut it off the back.
 * Usage
   * If you are having trouble keeping the whole house clean, you can just pick a smaller space.
   * Rooms with fewer windows, no fire place, and no vents work better.
