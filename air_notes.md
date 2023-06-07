@@ -12,7 +12,7 @@ Referral links benefit the [EFF](https://www.eff.org/).
 ### Mask
 * Just like with COVID, an N95 is the gold standard. Home Depot [stocks them](https://www.homedepot.com/p/3M-9205-N95-Aura-Particulate-Disposable-Respirator-Foldable-10-Pack-9205P-10-DC/316909322) and has a more reputable supply chain than Amazon. Remember that something without a valve is more courteous to others for COVID.
 ### Optional: Car power inverter
-* [Option](https://www.amazon.com/BESTEK-300W-Power-Inverter-Adapter/dp/B004MDXS0U?tag=electronicfro-20) if you need to evacuate or want to go long distances in a car, especially if you have a pet. 
+* [Option](https://www.amazon.com/BESTEK-300W-Power-Inverter-Adapter/dp/B004MDXS0U?tag=electronicfro-20) if you need to evacuate or want to go long distances in a car, especially if you have a pet, you'll want a small appliance for room filtering and an inverter to run it off your car. 
 
 ## Air Quality
 There are two common ways to measure air quality. One is the various levels of individual particles, and one is an aggregated score called the Air Quality Index, or AQI. For this section, we're mostly going to use AQI.
