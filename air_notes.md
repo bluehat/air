@@ -10,8 +10,7 @@ Referral links benefit the [EFF](https://www.eff.org/).
 * [Off the shelf option which is good for a smaller space](#user-content-off-the-shelf-hepa-filters)
 * [Cheaper DIY option good for a larger space](#user-content-easy-diy-room-wild-fire-air-filter-option)
 ### Mask
-* A mask with [Organic Vapor filtration](https://www.amazon.com/3M-7512PA1-Professional-Respirator-Medium/dp/B000XBFJP2?tag=electronicfro-20) but not acid gas. This is selected because it has easy to replace parts.
-* Optional: Replacement [P100 filters with both organic vapor and acid gas filtration](https://www.amazon.com/Cartridge-Filter-60923-Organic-Vapor/dp/B07571LKP3?tag=electronicfro-20).
+* Just like with COVID, an N95 is the gold standard. Home Depot [stocks them](https://www.homedepot.com/p/3M-9205-N95-Aura-Particulate-Disposable-Respirator-Foldable-10-Pack-9205P-10-DC/316909322) and has a more reputable supply chain than Amazon. Remember that something without a valve is more courteous to others for COVID.
 ### Optional: Car power inverter
 * [Option](https://www.amazon.com/BESTEK-300W-Power-Inverter-Adapter/dp/B004MDXS0U?tag=electronicfro-20) if you need to evacuate or want to go long distances in a car, especially if you have a pet. 
 
@@ -144,6 +143,9 @@ Shelter in place: [instructions](https://www.ready.gov/shelter)
 
 * Not everybody can wear masks. Some small children, some pets, and some other respiratory-damaged individuals do not have strong enough lungs to draw new filter into the mask and push old air out.
 * In this case, an option is to focus more on handling air quality within a room.
+* If you are not worried about anything other than particulates, standard N95's are a fantastic choice and also very effective against COVID. 
+  * [Here are some](https://www.homedepot.com/p/3M-9205-N95-Aura-Particulate-Disposable-Respirator-Foldable-10-Pack-9205P-10-DC/316909322) that have a reasonable supply chain and which are available for same-day curbside pickup in most areas of the country. 
+  * [Here is a broader selection](https://www.projectn95.org/collections/respirators/) from a more trustworthy supply chain than Amazon with shipping.
 
 ### Filters
 * Masks are only as good as the seal on your face.
@@ -186,5 +188,5 @@ You can see which wildfires are burning and which have been contained at https:/
 Each Cal Fire county tends to have its own twitter feed, and this is often an OK place to get updates for your local area.
 
 ## Credits
-Doug did a lot of the early work on this guide.
+Douglas did a lot of the early work on this guide.
 
