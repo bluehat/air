@@ -30,19 +30,21 @@ It's worth remembering that this measures how many particles they are, not how h
 
 ### How do I check my AQI?
 
+#### Checking Online
+You can check the AQI for your local area online. 
+
+* Here is the [one that loads](http://aqicn.org/here/) It tends to give very optimistic numbers.
+* Here is [one operated by the US government](https://www.airnow.gov/)
+* Here is the [a crowdsourced option with fantastic data but a less robust website](https://www.purpleair.com) It gives far higher readings. There have been historical instances where these home weather stations were more trustworthy then larger sources.
+* Some of these reading differences can be explained and compensated for [in this article](https://thebolditalic.com/understanding-purpleair-vs-airnow-gov-measurements-of-wood-smoke-pollution-562923a55226?gi=775f8a0124e8)
+* Please note that many services such as Apple Watch use AQI forecast APIs and many of these are terrible. You are strongly suggested to find actual readings from a sensor from someplace if possible.
+
 #### Measuring Kits
 The most exact way to check your AQI is to buy a kit which measures it.
 
 (*this part of the guide is still being developed, please help*)
 * Here is [the suggestion from Wirecutter](https://www.amazon.com/dp/B004AWEG0Y?tag=electronicfro-20). It covers "large and small" particles and it is not clear why it is so expensive.
 * Here is [one](https://www.amazon.com/gp/product/B077HRXWGP?tag=electronicfro-20) which is $100 cheaper and also monitors volitile organic compounds. It isn't clear why it is so much less expensive, especially with the extra sensor.
-
-#### Checking Online
-You can check the AQI for your local area online.
-* Here is the [one that loads](http://aqicn.org/here/) It tends to give very optimistic numbers.
-* Here is [one operated by the US government](https://www.airnow.gov/)
-* Here is the [a crowdsourced option with fantastic data but a less robust website](https://www.purpleair.com) It gives far higher readings. There have been historical instances where these home weather stations were more trustworthy then larger sources.
-* Some of these reading differences can be explained and compensated for [in this article](https://thebolditalic.com/understanding-purpleair-vs-airnow-gov-measurements-of-wood-smoke-pollution-562923a55226?gi=775f8a0124e8)
 
 ## Forecasting
 
