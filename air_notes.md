@@ -28,6 +28,9 @@ It's worth remembering that this measures how many particles they are, not how h
 | 200+ | Very Unhealthy (Purple) | "Health alert: everyone may experience more serious health effects." | "Active children and adults, and people with respiratory disease, such as asthma, should avoid all outdoor exertion; everyone else, especially children, should limit outdoor exertion." |
 | 300+ | Hazardous (Maroon) | "Health warnings of emergency conditions. The entire population is more likely to be affected." | "Everyone should avoid all outdoor exertion." |
 
+#### How are these numbers calculated?
+Basically, there are several pollutants and defined ranges for each which are considered "good" "unhealthy" etc. The actual numbers refer to how close it is to being in the next category. The highest pollutant determines the overall air quality. You can read more about the ranges on [page 8 of this document.](https://www.airnow.gov/sites/default/files/2020-05/aqi-technical-assistance-document-sept2018.pdf)
+
 ### How do I check my AQI?
 
 #### Checking Online
@@ -35,7 +38,7 @@ You can check the AQI for your local area online.
 
 * Here is the [one that loads](http://aqicn.org/here/) It tends to give very optimistic numbers.
 * Here is [one operated by the US government](https://www.airnow.gov/)
-* Here is the [a crowdsourced option with fantastic data but a less robust website](https://www.purpleair.com) It gives far higher readings. There have been historical instances where these home weather stations were more trustworthy then larger sources.
+* Here is the [a crowdsourced option with fantastic data but a less robust website](https://www.purpleair.com) It gives far higher readings. There have been historical instances in other countries where these home weather stations were more trustworthy then larger sources, especially in politically nuanced situations.
 * Some of these reading differences can be explained and compensated for [in this article](https://thebolditalic.com/understanding-purpleair-vs-airnow-gov-measurements-of-wood-smoke-pollution-562923a55226?gi=775f8a0124e8)
 * Please note that many services such as Apple Watch use AQI forecast APIs and many of these are terrible. You are strongly suggested to find actual readings from a sensor from someplace if possible.
 
@@ -67,7 +70,7 @@ The short version is: be in the best quality air you can manage. That generally 
   * If it is too hot to keep the windows closed, seek shelter elsewhere
 * Improve the quality of the air you breathe
   * Purify the air in your home.
-    * Do not use a machine which makes ozone. Ozone is very bad for you. 
+    * Do not use a machine which makes ozone. Ozone is bad for you. If your machine is listed [here](https://ww2.arb.ca.gov/list-carb-certified-air-cleaning-devices) as "mechanical" it does not make ozone.
   * If your machine can't cover the whole space, go into a smaller space (with no fireplace and ideally few windows) so that your air cleaner doesn't have to keep as much space clean.
 * Watch for brief periods of improvement in air quality and, should the quality of the outside air become better than the quality of the inside air, use the opportunity to air out your house.
 * Have respirators.
@@ -124,7 +127,7 @@ Adapter found this [credible and easy DIY option.](https://www.king5.com/article
     * Here is [a solidly-built fan](https://www.amazon.com/Lasko-B20301-20-Inch-Premium-3-SPEED/dp/B01CEITGQ4?tag=electronicfro-20) which has the control someplace other than on the back and the cord at the base. This is vastly preferred since the filter doesn't interfere with changing the settings.
     * [The cheapest fan on prime](https://www.amazon.com/Holmes-HBF2001DP-BM-20-Inch-Black-Blade/dp/B00I8Q3082?tag=electronicfro-20). Unfortunately, the power cord and speed control are on the back, which is inconvenient for construction.
   * A [MERV 13](https://www.amazon.com/gp/product/B01CR9K33K?tag=electronicfro-20) or FPR 10 filter. We have reason to trust MERV more.
-  * Tape. Ideally this would be an air-tight tape, such as [Duct tape](https://www.amazon.com/Multi-Use-Duct-2930-C-Inches-Yards/dp/B0013B1XHE?tag=electronicfro-20). Gaffer tape and gorilla tape are also well-suited to this.
+  * Tape. Ideally this would be an air-tight tape, such as [Duct tape](https://www.amazon.com/Multi-Use-Duct-2930-C-Inches-Yards/dp/B0013B1XHE?tag=electronicfro-20). Gaffer tape and gorilla tape are also well-suited to this. Personally, I prefer masking tape.
 * Construction
   * Tape the air filter to the intake of the box fan.
   * The direction the air is supposed to go should be marked on the filter with and arrow.
@@ -165,7 +168,7 @@ Shelter in place: [instructions](https://www.ready.gov/shelter)
 * The United States Forest Service studied face respirators for usage in wildfire fighting. They eventually decided they will only be used voluntarily, and that ["NIOSH-approved respirators could be considered." They list respirators with combination organic vapor/acid gas cartridge and N95 filter.](https://www.fs.fed.us/eng/pubs/pdf/hi_res/07511301hi.pdf)
  
 ### Current guess on Amazon:
-Many options are listed here
+Many options are listed here. Please note that Amazon has supply chain issues where they comingle inventory. It is suggested that you purchase through more trusted supply chains, such as brick-and-morter stores that do not stock from Amazon, whenever possible.
 * In 2018 when the smoke got severe, Amazon sold out of basically everything
 * The cartridges "expire" and technically should not be used after being open for more than a set period. This means that if you followed the letter of the instructions, you might replace them each year.
 
