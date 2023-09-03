@@ -165,7 +165,7 @@ Shelter in place: [instructions](https://www.ready.gov/shelter)
 ### Cartridges
 * Many respirators additionally come with cartridges.
 * Thes cartridges are used in industrial settings to filter a variety of gasses, with different specialized cartridges for different applications.
-* The United States Forest Service studied face respirators for usage in wildfire fighting. They eventually decided they will only be used voluntarily, and that ["NIOSH-approved respirators could be considered." They list respirators with combination organic vapor/acid gas cartridge and N95 filter.](https://www.fs.fed.us/eng/pubs/pdf/hi_res/07511301hi.pdf)
+* The United States Forest Service studied face respirators for usage in wildfire fighting. They eventually decided they will only be used voluntarily, and that ["NIOSH-approved respirators could be considered." They list respirators with combination organic vapor/acid gas cartridge and N95 filter.](https://web.archive.org/web/20210412220931/https://www.fs.fed.us/eng/pubs/pdf/hi_res/07511301hi.pdf))
  
 ### Current guess on Amazon:
 Many options are listed here. Please note that Amazon has supply chain issues where they comingle inventory. It is suggested that you purchase through more trusted supply chains, such as brick-and-morter stores that do not stock from Amazon, whenever possible.
